@@ -1,2 +1,2 @@
-# Hello-Word
-第一个github上的项目:Hello word!
+# Hello-World
+第一个github上的项目:Hello world!
